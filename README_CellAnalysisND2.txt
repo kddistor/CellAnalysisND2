@@ -4,10 +4,10 @@
 # Albeck Lab
 #
 #########################################################
-#Cell Tracking and Analysis    #
-#	This software analyses an ND2 movie file and  #
-#	tracks cells through time. The output contains #
-#	intensities of the tracks in different channels #
+#Cell Tracking and Analysis                   #
+#	This software analyses an ND2 movie file and   #
+#	tracks cells through time. The output contains  #
+#	intensities of the tracks in different channels  #
 #	as well as the ratios of those channels.	#
 #########################################################
 
